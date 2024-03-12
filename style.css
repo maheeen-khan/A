@@ -10,8 +10,7 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 68px;
     font-weight: lighter;
-    color:palevioletred;
-    background: linear-gradient(45deg, yellow, green);
+    color:rgb(174, 111, 111);
     text-align: center;
 }
 .main{
